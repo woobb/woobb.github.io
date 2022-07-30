@@ -9,8 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://woobb.github.io" # the base hostname & protocol for your site, e.g. http://example.comreaaaㄱ
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: Employment War 
+banner-desc: Please do anything. -woobin Kim 
 remote_theme: artemsheludko/bef
 # Author settings
 author-pic: face.jpg # your photo
