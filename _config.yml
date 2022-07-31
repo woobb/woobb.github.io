@@ -10,12 +10,12 @@ url: "https://woobb.github.io" # the base hostname & protocol for your site, e.g
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Employment War 
-banner-desc: employment war라 쓰고 복습&취업용 블로그라 읽는다..
+banner-desc: 공부&취업 일대기
 remote_theme: artemsheludko/bef
 # Author settings
 author-pic: face.jpg # your photo
 author-name: 김우빈. Woobin Kim.
-about-author: 사진본인임 ㅋㅋ
+about-author: 공부는 나랑 안맞다
 email: dnqls16123@naver.com 
 phone: 010-6710-1623
 website: https://woobb.github.io
