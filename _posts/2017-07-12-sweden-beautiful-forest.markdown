@@ -1,15 +1,27 @@
 ---
 layout: post
-title: "Sweden: Beautiful forest"
+title: "영단어암기법"
 img: sweden.jpg # Add image post (optional)
-date: 2017-07-12 12:52:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Sweden, Travel, Forest]
+date: 2022-07-31 21:20:57
+description: 연세대 형님의 영단어암기법
+tag: [공부법]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+이제 토익시험을 공부함에 따라 노랭이 영어단어 암기법부터 알아보겠다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+>연세대 형님의 효율적 영단어암기법
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+1.영단어만 보이게하고 뜻을 말해본다. 이미 알고있는 단어는 과감히 넘어간다. 그 책에서 다신 안볼 단어이다.
+모르면 체크한개, 자신에게 솔직해지도록하자
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+2.첨으로 돌아온다. 첫체크부터 완벽하게 외우지말고, 빠르게 하루 day2이상 보도록하자
+
+3.오늘분량 2개 공부하면서 전날 2개 복습해준다. 어제꺼 기억안나면 체크한개 덧붙여준다.
+4일차 공부부터 그날분량, 전날, 3일전거까지 복습해준다.
+7일차엔 그주 분량 전부 복습한다. 이러면 20일만에 4회독 한셈이 되는데, 이를 1주기라 정한다
+
+4.2주기부턴 day3씩 본다. 이때 체크 몇개이상 보겠다 규칙도 정하던지 알맞게 하면된다
+
+정 모르는단어는 접두사+어근 조합으로 외우던지 10초 스토리텔링형으로 외우는수밖에없다
+그래도 진짜 안외워지면 상황맞게 콩글리쉬로 그단어 써서 친구한테 카톡보내보도록하자. 효과직빵이다
+
+그럼 36일뒤인 9월 5일에 과연 노랭이 다외웠는지 보겠다.
