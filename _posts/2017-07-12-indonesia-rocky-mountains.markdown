@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Indonesia: Rocky mountains"
+title: "머하고 살아야하지"
 img: indonesia.jpg # Add image post (optional)
-date: 2017-07-12 12:51:00 +0300
+date: 2022-08-29 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Indonesia, Mountains]
+tag: [감정 쓰레기통]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+너무 무기력하다.. 요즘 미래에 뭐할지만 생각하다 하루가끝난다. 그냥 막막하다. 군대 전역별로 안남은 병장시절엔 나와서 무슨일이던 적극적으로 하고 인간관계도 활발히 신경쓰면서 사는..그런 인간이 될거라고 확신했다. 내인생에 자신감이 가장 치솟았던시기가 아닐까싶다. 전역해보니 나는 사회의 밑바닥 껌딱지만도 못하단걸 깨달았다. 엇학기복학은 학점관리가 두려워서 안했지, 알바는 귀찮다고안해 열심히하던 운동도 대충하게되고 집에만 틀어박혀있다. 공부한답시고 지금 하나도 필요없는 유효기간도있는 토익700이나 목표로 공부하고있으니 참
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
-
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
-
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+뭘하던 하기싫고 귀찮고, 빨리자고 늦게일어나고..그렇다고 잠이 안오는것도아니고.. 하루종일 아무것도 안했는데 잠이쏟아진다. 이런내가 뭘할수있을까
+나가서 사람들 만나는거 막상 닥치면 재밌고, 배울점도 많고 하다만 집밖에서 어떤행위를 한다는거자체부터가 너무귀찮다. 무기력증이 온거같다.
+나같은놈이 쓸데없이 눈만높아서 아빠가 권하는 공무원공부조차 하기싫다고 신경질냈다. 집밖도 안나가는놈이 커서 어느 회사에서 돈을벌어먹고 가정꾸리고 살겠다고
+인생에 더 있을까말까한 이 공백기를 의미잇게 보내야되는데.. 벌써 2개월째 도태된거마냥 살고있다. 지금당장이라도 맘잡고 어느공부던 시작하면되지만 하기싫은걸어쩌나..
+그렇다고 가만히있자니 이런 쓰레기같은 생각들 하면서 하루하루가 빠르게 지나가고있다. 구글 찾아보니 이런시기 겪은사람들이 꽤있던데.. 댓글들중에 인생 다 의미없다고 흐르는대로, 시간에 맡기면 어느정도 이런우울증이 극복되고 할일을찾아 살아가게 된다고한다. 뭐이대로 가만있으면 미래가뻔한데 참 이해가안간다. 아니면내가 이제 막전역한 22살 1학년인데
+남들 재밌게 놀고먹는동안 나만 쓸데없이 이런고민하고있나 생각이 들기도한다. 주변에 벌써 자기힘으로 돈벌어서 차사고 몇천 모으고 이런거보면 그냥 부럽지도않다. 
+나중에더쓰겟다..
